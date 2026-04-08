@@ -42,7 +42,12 @@ Lancer le projet
 
 1. Copier le projet dans le dossier : htdocs/
 sitenouveau │── index.php │── login.php │── register.php │── db.php │── /admin │── /images │── database.sql │── README.md
+2.ouvrir le navigateur et aller sur:http://localhost/sitenouveau
 
+Aperçu
+
+![Page d'accueil],[Page login]
+dossier (screenshot)
 Remarques
 - Assurez-vous que XAMPP est bien lancé
 - Vérifiez la connexion à la base de données dans db.php
